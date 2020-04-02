@@ -28,7 +28,7 @@ mysql> create table biao2(id int);
 Query OK, 0 rows affected (0.07 sec)
 ```
 
- ![]（https://github.com/JINxin-0505/mysql-test-1/blob/master/7V%5B%7DUXP4M5T%5B%2456BSYYY%7DVB.png）
+ ![]（https://github.com/JINxin-0505/mysql-test-1/blob/master/mysql.png）
  
 ## 题目3： xxxx
 
